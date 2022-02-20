@@ -55,7 +55,7 @@
      <tr style="text-align:left">
   <td>4</td>
   <td>Shape Detection</td>
-  <td><a href="shape_detection.html">Explanatory Notebook</a></td>
+  <td><a href="shapedetection.html">Explanatory Notebook</a></td>
   <td>
     <ul>
       <li><a href="Project4-shape-detection.md">Shape Detection Code </a></li>
