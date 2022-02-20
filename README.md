@@ -25,7 +25,7 @@
   <tr style="text-align:left">
   <td>2</td>
   <td>Emotion Recognition</td>
-  <td><a href="Project1-Grid-Detection.html">Explanatory Notebook</a></td>
+  <td><a href="Project2-EMOTION-RECOGNITION.html">Explanatory Notebook</a></td>
   <td>
     <ul>
       <li><a href="Flask-Real-time/app.py">Emotion Recognition Code </a></li>
@@ -40,7 +40,7 @@
    <tr style="text-align:left">
   <td>3</td>
   <td>Face Eye Lip Detection</td>
-  <td><a href="Project1-Grid-Detection.html">Explanatory Notebook</a></td>
+  <td><a href="Project3-Face-Eye-Lip-Detection.html">Explanatory Notebook</a></td>
   <td>
     <ul>
       <li><a href="client1.py">Face Eye Lip Detection Code </a></li>
