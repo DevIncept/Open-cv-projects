@@ -14,7 +14,7 @@
   <td><a href="Project1-Grid-Detection.html">Explanatory Notebook</a></td>
   <td>
     <ul>
-      <li><a href="Project1-Grid-Detection.md">Grid-Detection Code </a></li>
+      <li><a href="Project1-Grid-Detection.html">Grid-Detection Code </a></li>
       <li><a href="Project1-Grid-Detection.ipynb">Grid-Detection Notebook</a></li>
     </ul>
   </td>
@@ -30,7 +30,7 @@
     <ul>
       <li><a href="Flask-Real-time/app.py">Emotion Recognition Code </a></li>
       <li><a href="Flask-Real-time/camera.py">Emotion Recognition Code </a></li>
-      <li><a href="Project2-EMOTION-RECOGNITION.md">Emotion Recognition Notebook</a></li>
+      <li><a href="Project2-EMOTION-RECOGNITION.html">Emotion Recognition Notebook</a></li>
     </ul>
   </td>
   <td>
@@ -45,7 +45,7 @@
     <ul>
       <li><a href="client1.py">Face Eye Lip Detection Code </a></li>
       <li><a href="server.py">Face Eye Lip Detection Code </a></li>
-      <li><a href="Project3-Face-Eye-Lip-Detection.md">Face Eye Lip Detection Notebook</a></li>
+      <li><a href="Project3-Face-Eye-Lip-Detection.html">Face Eye Lip Detection Notebook</a></li>
     </ul>
   </td>
   <td>
@@ -58,8 +58,8 @@
   <td><a href="shapedetection.html">Explanatory Notebook</a></td>
   <td>
     <ul>
-      <li><a href="Project4-shape-detection.md">Shape Detection Code </a></li>
-      <li><a href="Project4-shape-detection.md">Shape Detection Notebook</a></li>
+      <li><a href="Project4-shape-detection.html">Shape Detection Code </a></li>
+      <li><a href="Project4-shape-detection.html">Shape Detection Notebook</a></li>
     </ul>
   </td>
   <td>
